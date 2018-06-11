@@ -1,10 +1,8 @@
 ##################################################################
 # GLOBAL MODULE OF APP 
 # App for Project ALSSN 
-# @Author S0211743 
+# @Author Daniel Bodden
 ##################################################################
-
-
 
 graphFilename = list.files( path = "data/", include.dirs = FALSE ) 
 
