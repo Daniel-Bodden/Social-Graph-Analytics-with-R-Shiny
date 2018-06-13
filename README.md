@@ -9,19 +9,20 @@ The app consist of 4 modules:
 * Paths
 * Community Detection
 
-##Installation
+## Installation
 
 The following R packages need to be installed:
 
+'''{r}
 install.packages(shiny)
 install.packages(igraph)
 install.packages(visNetwork)
 install.packages(dplyr)
 install.packages(DT)
 install.packages(plotly)
+'''
 
-
-##In the Pipeline for Future Development
+## In the Pipeline for Future Development
 
 To be added: 
 * [Community Detection] Find important nodes in communities
